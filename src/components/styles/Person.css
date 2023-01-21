@@ -1,0 +1,16 @@
+.personContainer{
+    display: flex;
+    flex-direction: row;
+    width: auto;
+    border: 1px solid black;
+}
+.image{
+    height: 100px;
+    width: 160px;
+
+}
+
+.btn,.name{
+    font-size:large ;
+  
+}

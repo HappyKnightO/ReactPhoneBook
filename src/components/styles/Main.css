@@ -1,0 +1,18 @@
+.container{
+    
+    background-color: #98A6D4;
+    border: 1px black solid;
+}
+.btnHeader{
+    display: grid;
+    grid-template-columns: auto auto auto;
+    column-gap: 81px;
+    
+    
+}
+.search{
+    border: 2px solid black;
+}
+.popupForm{
+    position: absolute;
+}
